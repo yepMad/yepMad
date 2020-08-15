@@ -6,11 +6,11 @@ I started in the programming area when I was 11 years old when I came across Min
 
 👨🏻‍ 18y
 <br />
-📭 Recife, Pernambuco, Brasil
+📭 Recife, Pernambuco, Brazil
 <br />
 💼 Freelancer with React.JS, React Native e Node.JS
 <br />
-📚 Full Stack e Desenvolvedor de Jogos
+📚 Full Stack and Game Developer
 <br />
 🎓 Technologist in Digital Games from Universidade Católica de Pernambuco
 <br />
