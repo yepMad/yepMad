@@ -3,6 +3,7 @@
 I started in the programming area when I was 11 years old when I came across Minecraft servers and their vast world of plugins spread across the Bukkit community, I started to learn Java and became interested in continuing the development of SpotProtection and SpotVip plugins. Since then, I have been looking for my place in the program, I have been improving myself day by day.
 
 🎮 My Games: https://play.google.com/store/apps/developer?id=Pandora-Studio
+<br />
 💬 LinkedIn: https://www.linkedin.com/in/eudestenorio/
 
 👨🏻‍ 18y
