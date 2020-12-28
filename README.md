@@ -6,7 +6,7 @@ I started in the programming area when I was 11 years old when I came across Min
 <br />
 💬 LinkedIn: https://www.linkedin.com/in/eudestenorio/
 
-👨🏻‍ 18y
+👨🏻‍ 19y
 <br />
 📭 Recife, Pernambuco, Brazil
 <br />
