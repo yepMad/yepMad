@@ -1,6 +1,8 @@
 ### Hi there! I'm Eudes and I have a cat called Gris 🐱
 
-I started in the programming area when I was 11 years old when I came across Minecraft servers and their vast world of plugins spread across the Bukkit community, I started to learn Java and became interested in continuing the development of SpotProtection and SpotVip plugins. Since then, I have been looking for my place in the program, I have been improving myself day by day.
+I'm passionate about game development, software architecture and back-end programming.
+
+I started in the programming area at 11 years old when I came across Minecraft servers and its vast world of plugins spread across the community. Since then, I've been looking for my place in programming, I've been improving day by day
 
 🎮 My Games: https://play.google.com/store/apps/developer?id=Pandora-Studio
 <br />
