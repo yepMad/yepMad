@@ -2,7 +2,7 @@
 
 I'm passionate about game development, software architecture and back-end programming.
 
-I started in the programming area at 11 years old when I came across Minecraft servers and its vast world of plugins spread across the community. Since then, I've been looking for my place in programming, I've been improving day by day
+I started in the programming area at 11 years old when I came across Minecraft servers and its vast world of plugins spread across the community. Since then, I've been looking for my place in programming, I've been improving day by day.
 
 🎮 My Games: https://play.google.com/store/apps/developer?id=Pandora-Studio
 <br />
