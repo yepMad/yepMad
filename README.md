@@ -2,7 +2,7 @@
 
 I'm passionate about game development, software architecture and back-end programming.
 
-I started early as a programmer contributing to a community of plugins and since then I've been looking for my place by perfecting myself day by day with:
+I started early as a programmer contributing to a community of plugins and since then I've been looking for my place by perfecting myself day by day:
 
 🎮 My Games: https://play.google.com/store/apps/developer?id=Pandora-Studio
 <br />
